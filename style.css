@@ -22,8 +22,12 @@ nav {
 	left: 5px;
 }
 
-.head-text{
-	font-size:27px;
+.fa-brands.fa-github {
+	
+}
+
+.head-text {
+	font-size: 27px;
 	font-weight: bold;
 }
 
@@ -42,7 +46,7 @@ nav {
 
 #count-text {
 	font-size: 75px;
-	
+
 	text-shadow: 1px 1px 1px black;
 
 }
@@ -75,4 +79,3 @@ button {
 	font-family: 'Exo 2', sans-serif;
 	font-family: 'Montserrat Alternates', sans-serif;
 }
-
