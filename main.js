@@ -13,4 +13,5 @@ function decrease() {
 
 function reset() {
 	countText.innerHTML = 0;
+	count = 0;
 }
