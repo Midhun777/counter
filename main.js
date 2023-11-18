@@ -15,3 +15,4 @@ function reset() {
 	count = 0;
 	countText.innerHTML = count;
 }
+
