@@ -11,8 +11,3 @@ function decrease() {
 	countText.innerHTML = count;
 }
 
-function reset() {
-	count = 0;
-	countText.innerHTML = count;
-}
-
